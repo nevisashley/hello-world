@@ -7,3 +7,5 @@ This repository is built step by step in the tutorial.
 it now includes steps for GitHub
 
 Thank you
+
+Good morning. Today is 26th July 2024
